@@ -85,7 +85,7 @@ FFmpeg is required to convert audio files to MP3 format. Follow these steps to i
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/audio_downloader.git
+   git clone https://github.com/muhammad-usama-021/audio_downloader.git
    cd audio_downloader
 
 ## License
