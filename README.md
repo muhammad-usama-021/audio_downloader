@@ -88,5 +88,9 @@ FFmpeg is required to convert audio files to MP3 format. Follow these steps to i
    git clone https://github.com/muhammad-usama-021/audio_downloader.git
    cd audio_downloader
 
+1. **Run the script**:
+   ```bash
+   python m3u8_to_mp3_converter.py "your_m3u8_file_url" "output_audio.mp3"
+
 ## License
 This script is created by Muhammad Usama!
